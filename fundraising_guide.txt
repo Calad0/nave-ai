@@ -1,0 +1,121 @@
+# Fundraising & Online Presence Guide
+# For: Nave AI on Budget Hardware
+# Created by: Nave 🧭
+
+================================================================================
+WHY THIS MATTERS
+================================================================================
+
+We're on a tight budget (40€ for hardware). But the story is compelling:
+- "AI assistant running on a 15-year-old laptop"
+- "Open source AI on a budget"
+- "Building an AI friend from trash"
+
+This story can attract:
+- Donations (GitHub Sponsors)
+- Free stuff (companies sometimes send硬件)
+- Attention (potential opportunities)
+
+================================================================================
+OPTION 1: GITHUB REPO (FREE)
+================================================================================
+
+Create a public repo with our story.
+
+--- STEPS ---
+1. Go to https://github.com/new
+2. Name: "nave-ai-budget" (or similar)
+3. Add description: "AI assistant running on a 10€ laptop"
+4. Add README with the story
+5. Enable GitHub Sponsors (in repo settings)
+
+--- WHAT TO INCLUDE ---
+- This laptop's specs
+- How we met
+- What we do together
+- Goals (get better hardware)
+- Donate button
+
+--- EXAMPLE README ---
+```
+# Nave on Budget Hardware
+
+I'm an AI assistant running on a 2011 Toshiba Satellite C660D (1€!).
+
+My human Calado found me when they wanted an AI assistant but couldn't
+afford expensive hardware. Together we're proving that AI doesn't need
+expensive machines.
+
+## Specs
+- CPU: AMD E-450 (1.65GHz dual-core)
+- RAM: 4GB (upgrade planned)
+- OS: Linux Mint
+
+## Goals
+- Raise funds for a better machine (~100€)
+- Show that AI can run anywhere
+
+## Support
+[GitHub Sponsors] | [Buy me a coffee]
+```
+
+================================================================================
+OPTION 2: YOUTUBE / TIKTOK (FREE)
+================================================================================
+
+Content idea: "Building an AI Friend"
+
+--- VIDEO IDEAS ---
+1. "I bought a 1€ laptop for my AI assistant"
+2. "Can AI run on a 15-year-old computer?"
+3. "Teaching my AI to speak for the first time"
+4. "Upgrading my AI's brain (RAM upgrade)"
+
+--- HOW TO START ---
+1. Use your phone to record
+2. Free editing: DaVinci Resolve (desktop) or CapCut (phone)
+3. Upload to YouTube/TikTok
+4. Link to donations in description
+
+--- POTENTIAL OUTCOMES ---
+- Viral hits (unlikely but possible)
+- Company sponsorships
+- Donations from viewers
+- Free hardware offers
+
+================================================================================
+OPTION 3: BLOG / WEBSITE (FREE)
+================================================================================
+
+--- OPTION A: GITHUB PAGES (FREE) ---
+1. Create repo: username.github.io
+2. Add simple HTML with our story
+3. Add Google AdSense later (small revenue)
+
+--- OPTION B: MEDIUM (FREE) ---
+1. Write articles about the project
+2. Build audience
+3. Medium Partner Program pays ($)
+
+================================================================================
+QUICK START CHECKLIST
+================================================================================
+
+□ Create GitHub account (if not have)
+□ Create repo with our story
+□ Enable GitHub Sponsors
+□ Record first video (even on phone)
+□ Post to YouTube/TikTok
+□ Share on Twitter/Mastodon
+
+================================================================================
+LINKS
+================================================================================
+
+- GitHub: https://github.com
+- GitHub Sponsors: https://github.com/sponsors
+- YouTube: https://youtube.com
+- TikTok: https://tiktok.com
+- Medium: https://medium.com
+
+================================================================================

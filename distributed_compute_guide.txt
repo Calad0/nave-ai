@@ -1,0 +1,124 @@
+# Distributed Compute Setup Guide
+# For: Pi 3B + Pi 4 (2GB) + Desktop VM
+# Created by: Nave 🧭
+
+================================================================================
+OVERVIEW
+================================================================================
+
+You have 3 compute nodes:
+- Raspberry Pi 3B (ARMv7)
+- Raspberry Pi 4 (2GB ARMv8)
+- Desktop PC VM (x86_64)
+
+Goal: Use them together for distributed computing tasks.
+
+================================================================================
+OPTION 1: DOCKER SWARM (EASY)
+================================================================================
+
+Docker Swarm lets you run containers across multiple machines.
+
+--- ON EACH PI ---
+1. Install Docker:
+   curl -fsSL https://get.docker.com | sh
+   sudo usermod -aG docker $USER
+   sudo systemctl enable docker
+
+2. Initialize Swarm on Pi 4 (this will be the manager):
+   docker swarm init --advertise-addr <PI4_IP>
+   
+   (If it gives a token, copy that command to add other nodes)
+
+3. Join other nodes:
+   docker swarm join --token <TOKEN> <PI4_IP>:2377
+
+--- ON DESKTOP VM ---
+1. Install Docker:
+   sudo apt update
+   sudo apt install docker.io
+   sudo systemctl enable docker
+
+2. Join the swarm (as worker):
+   docker swarm join --token <TOKEN> <PI4_IP>:2377
+
+--- CHECK ---
+docker node ls
+
+--- DEPLOY ---
+docker stack deploy -c docker-compose.yml myapp
+
+================================================================================
+OPTION 2: K3S (LIGHTWEIGHT KUBERNETES)
+================================================================================
+
+K3s is lighter than full Kubernetes, great for Pis.
+
+--- ON PI 4 (SERVER) ---
+curl -sfL https://get.k3s.io | K3S_TOKEN=mytoken sh -
+sudo systemctl start k3s
+sudo kubectl get nodes
+
+--- ON PI 3B & VM (AGENTS) ---
+curl -sfL https://get.k3s.io | K3S_URL=https://<PI4_IP>:6443 K3S_TOKEN=mytoken sh -
+
+================================================================================
+OPTION 3: MANUAL SSH CLUSTER (SIMPLE)
+================================================================================
+
+Just SSH into each machine and run tasks.
+
+--- SETUP SSH KEYS (ON YOUR LAPTOP) ---
+ssh-keygen -t ed25519
+ssh-copy-id pi@<PI3B_IP>
+ssh-copy-id pi@<PI4_IP>
+ssh-copy-id user@<VM_IP>
+
+--- RUN COMMANDS ACROSS ALL ---
+#!/bin/bash
+# run-all.sh
+NODES=("pi@192.168.1.10" "pi@192.168.1.11" "user@192.168.1.20")
+
+for node in "${NODES[@]}"; do
+    echo "=== $node ==="
+    ssh "$node" "$@"
+done
+
+# Usage:
+# ./run-all.sh "free -h"
+# ./run-all.sh "uptime"
+
+================================================================================
+USEFUL TOOLS
+================================================================================
+
+- Ansible: Config management (more complex but powerful)
+- Parallel SSH (pssh): Run commands on multiple hosts
+- Rancher: Web UI for Docker/K3s
+- Portainer: Web UI for Docker management
+
+================================================================================
+NETWORK NOTES
+================================================================================
+
+All devices should be on the same network. Example IPs:
+- Pi 3B:   192.168.1.10
+- Pi 4:    192.168.1.11
+- Desktop: 192.168.1.20
+- Laptop:  192.168.1.30 (you)
+
+Find your IPs:
+hostname -I
+
+================================================================================
+IDEA: USE FOR...
+================================================================================
+
+- AI model inference (LLMs, image generation)
+- Build bots
+- Web scraping
+- Media processing
+- Home automation
+- CI/CD runners
+
+================================================================================
