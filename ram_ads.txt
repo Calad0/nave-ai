@@ -1,0 +1,40 @@
+# 4GB DDR3 SODIMM - Lisbon Area
+# OLX.pt + CustoJusto.pt
+# Sorted by price (ascending)
+# Updated: 2026-02-22
+
+================================================================================
+OLX.PT
+================================================================================
+
+PREÇO | TÍTULO | LOCAL | CONDIÇÃO
+------|--------|-------|----------
+5€    | Ddr3 sodimm 4gb e 2 gb para portátil | Fanões | Usado
+      | https://www.olx.pt/d/anuncio/ddr3-sodimm-4gb-e-2-gb-para-porttil-IDIKobx.html
+5€    | Ram ddr3l 4gb SO-DIMM | Aveiras de Cima | Usado
+      | https://www.olx.pt/d/anuncio/ram-ddr3l-4gb-so-dimm-IDIP3qW.html
+6€    | Memória RAM Samsung 4GB DDR3L 1600MHz SODIMM - Para portátil | Alcabideche | Novo
+      | https://www.olx.pt/d/anuncio/memria-ram-samsung-4gb-ddr3l-1600mhz-sodimm-para-porttil-IDIXkO2.html
+7,50€ | Memória SO-DIMM 4GB DDR3 12800S | Rio Tinto | Usado
+      | https://www.olx.pt/d/anuncio/memria-so-dimm-4gb-ddr3-12800s-IDJ8eAM.html
+10€   | Memória 4GB DDR3 1333Mhz SO-DIMM | Santa Maria Da Feira | Usado
+      | https://www.olx.pt/d/anuncio/memria-4gb-ddr3-1333mhz-so-dimm-IDGt7zs.html
+10€   | Memorias SODIMM DDR3 4Gb | S. João Da Madeira | Usado
+      | https://www.olx.pt/d/anuncio/memorias-sodimm-ddr3-4gb-IDIjG7n.html
+
+================================================================================
+CUSTOJUSTO.PT
+================================================================================
+
+PREÇO | TÍTULO | LOCAL | CONDIÇÃO
+------|--------|-------|----------
+10€   | SO-DIMM 4Gb DDR3 1600Mhz (Memória RAM para portátil) - selada | Cascais | Novo
+      | https://www.custojusto.pt/lisboa/informatica/informatica-acessorios/so-dimm-4gb-ddr3-1600mhz-memoria-ram-para-portatil
+
+================================================================================
+NOTAS
+================================================================================
+- DDR3L = Low Voltage (1.35V) - compatível com DDR3 normal (1.5V)
+- SODIMM = formato para portátil
+- PC3-12800 = DDR3-1600MHz
+- Cascais e Alcabideche são área de Lisboa

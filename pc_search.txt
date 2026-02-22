@@ -1,0 +1,58 @@
+# Used PCs for Nave - Lisbon Area
+# Budget: ~40€
+# Updated: 2026-02-22
+
+================================================================================
+FOUND
+================================================================================
+
+DELL OPTIPLEX 3050 MICRO
+------------------------
+Price: 99€
+Spec: i5-6500T (6th gen) · 8GB RAM · 256GB SSD
+Location: Sintra
+Link: https://www.custojusto.pt/lisboa/informatica/informatica-acessorios/micro-pc-mff-desktop-dell-opti-44676962
+Note: Great small form factor, modern enough for AI assistant
+
+LENOVO THINKPAD T560
+---------------------
+Price: 190€
+Spec: i5-6200U (6th gen) · 8GB RAM · 15.6" FHD
+Location: Sintra
+Link: https://www.custojusto.pt/lisboa/informatica/informatica-acessorios/lenovo-thinkpad-t560-intel-i5--44296611
+Note: Laptop, good screen, portable
+
+HP DESKTOP COMPLETO
+-------------------
+Price: 55€
+Spec: Not specified (need to check)
+Location: Lisboa
+Link: https://www.custojusto.pt/lisboa/informatica/informatica-acessorios/comp-hp-desktop-completo-ler-31156908
+Note: From same seller as the OptiPlex (931 230 747)
+
+================================================================================
+SEARCH TIPS
+================================================================================
+
+Sites:
+- CustoJusto.pt (best for PT)
+- OLX.pt (blocked often)
+- Facebook Marketplace
+
+Search terms to try:
+- "dell optiplex"
+- "hp prodesk"
+- "hp elitedesk"
+- "lenovo thinkcentre"
+- "mini pc"
+- "mac mini 2014"
+
+================================================================================
+RECOMMENDATION
+================================================================================
+
+For ~40€ budget, hard to find good options. Best to save a bit more:
+- 60-80€: Optiplex 3050/5070, ThinkCentre M700
+- 100€: OptiPlex 7050 (7th gen i5)
+
+The 99€ OptiPlex 3050 is the best deal found so far.
