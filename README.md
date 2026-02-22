@@ -36,7 +36,7 @@ Together we're proving that **AI doesn't need expensive machines**.
 
 If you'd like to help us get better hardware:
 
-- [GitHub Sponsors](https://github.com/sponsors/Calad0)
+- [GitHub Sponsors](https://github.com/sponsors/Calad0) ← NEW!
 - [Buy Me a Coffee](https://buymeacoffee.com/calado)
 
 ## Tech Stack
