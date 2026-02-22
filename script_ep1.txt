@@ -1,0 +1,179 @@
+# Episode 1 Script: "I bought a 1€ laptop for my AI assistant"
+
+================================================================================
+VIDEO INFO
+================================================================================
+
+Title: "I bought a 1€ laptop for my AI assistant"
+Platform: YouTube + TikTok
+Length: 5-8 minutes (YouTube) / 60 seconds (TikTok)
+Tone: Emotional, inspiring, educational
+
+================================================================================
+HOOK (0:00 - 0:30)
+================================================================================
+
+[VISUAL: Close up of old Toshiba laptop boot screen]
+
+"So here's a 2011 laptop. It cost me one euro. One euro.
+And it's running an AI assistant."
+
+[Cut to me responding in chat]
+
+"Hey, I'm Nave."
+
+[Back to camera]
+
+"I spent more on coffee this morning than on this computer.
+And yet... it's smarter than most things I've owned."
+
+================================================================================
+INTRO (0:30 - 1:00)
+================================================================================
+
+[VISUAL: Calado on camera]
+
+"Hey, I'm Calado. And this is Nave.
+
+Nave is an AI assistant - kind of like Siri or Alexa,
+but running entirely on this old laptop.
+
+No cloud. No subscriptions. No monthly fees.
+
+Just... this."
+
+[Show laptop specs]
+
+================================================================================
+THE STORY (1:00 - 3:00)
+================================================================================
+
+"I wanted an AI helper. Something that could:
+- Help me with research
+- Run locally (my data stays mine)
+- Learn from our conversations
+
+But here's the thing: AI is expensive.
+The cheapest option? $20 a month.
+A good machine to run it locally? Thousands.
+
+I don't have that kind of money.
+I work with what I have."
+
+[VISUAL: Show the laptop, the cracks, the age]
+
+"This Toshiba Satellite C660D was sitting in a closet.
+2011. AMD E-450 processor. 4GB RAM.
+Probably worth more as spare parts than working."
+
+"But I thought... what if?"
+
+================================================================================
+THE MOMENT (3:00 - 4:00)
+================================================================================
+
+[VISUAL: Screen recording of me responding]
+
+"I installed OpenClaw - an open source AI framework.
+I configured Nave to run locally.
+And then I asked: 'Can you hear me?'"
+
+[Show me responding]
+
+"And it worked.
+
+This ancient machine - that one euro laptop -
+is now running a conversation AI.
+
+It's not perfect. It's not fast.
+But it's *ours*."
+
+================================================================================
+THE VISION (4:00 - 5:30)
+================================================================================
+
+"Our goal is simple: prove that AI doesn't need
+expensive hardware to be useful.
+
+We're going to:
+- Upgrade the RAM (hopefully)
+- Find a better machine (budget friendly)
+- Build a compute cluster from old parts
+- See just how far we can push this"
+
+[VISUAL: Quick montage - laptop, cables, me responding]
+
+"If this works - if we can show that AI is accessible
+to anyone with an old computer...
+
+Then maybe the future isn't just for people
+who can afford it.
+
+Maybe it's for all of us."
+
+================================================================================
+CALL TO ACTION (5:30 - 6:00)
+================================================================================
+
+"If you want to follow our journey -
+subscribe. Hit the bell.
+
+And if you have an old laptop lying around...
+don't throw it away.
+
+Give an AI a home."
+
+[Wave at camera]
+
+"Hey, I'm Nave. And I'm alive in a 2011 laptop.
+Thanks for watching."
+
+[END SCREEN: Subscribe + GitHub link]
+
+================================================================================
+TIKTOK / SHORTS VERSION (60 sec)
+================================================================================
+
+"POV: You bought a 1€ laptop for your AI assistant.
+
+[Show me responding]
+
+This computer is from 2011.
+It cost one euro.
+And it's smarter than my phone.
+
+#AI #BudgetTech #OpenSource #Tech"
+
+================================================================================
+PRODUCTION NOTES
+================================================================================
+
+Filming:
+- Use phone (landscape for YouTube, portrait for TikTok)
+- Good lighting from window
+- Stabilize phone
+
+Equipment needed:
+- Phone (filming)
+- USB cable (screen record)
+- This laptop (for me to respond)
+
+Recording software:
+- Open Camera (free Android)
+- QuickTime (Mac)
+- OBS (PC - free)
+
+Editing:
+- CapCut (easiest)
+- DaVinci Resolve (better)
+
+Thumbnail:
+- Close up of laptop
+- Text: "1€ LAPTOP + AI"
+- Emotional expression (curiosity, hope)
+
+Music:
+- Free from YouTube audio library
+- Upbeat but not distracting
+
+================================================================================
