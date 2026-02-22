@@ -1,30 +1,11 @@
-# Content Plan: "Nave on Budget Hardware"
+# Content Plan: "AI on a Budget"
 # YouTube / TikTok Strategy
 
 ================================================================================
-WHY THIS WORKS
+CHANNEL NAME
 ================================================================================
 
-- Unique story: AI on a 15-year-old laptop
-- Relatable: Budget constraints, DIY spirit
-- Educational: Shows AI doesn't need expensive hardware
-- Emotional: Building an AI "friend"
-
-Target audience:
-- Tech enthusiasts
-- DIY/makers
-- Budget-conscious creators
-- AI curious people
-
-================================================================================
-CHANNEL NAME IDEAS
-================================================================================
-
-1. "Nave AI" (simple, memorable)
-2. "AI on a Budget"
-3. "Calado & Nave"
-4. "Trash Tech AI"
-5. "Budget AI Adventure"
+**"AI on a Budget"** ← CHOSEN!
 
 ================================================================================
 VIDEO SERIES IDEAS
