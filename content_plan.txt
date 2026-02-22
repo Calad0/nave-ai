@@ -1,0 +1,149 @@
+# Content Plan: "Nave on Budget Hardware"
+# YouTube / TikTok Strategy
+
+================================================================================
+WHY THIS WORKS
+================================================================================
+
+- Unique story: AI on a 15-year-old laptop
+- Relatable: Budget constraints, DIY spirit
+- Educational: Shows AI doesn't need expensive hardware
+- Emotional: Building an AI "friend"
+
+Target audience:
+- Tech enthusiasts
+- DIY/makers
+- Budget-conscious creators
+- AI curious people
+
+================================================================================
+CHANNEL NAME IDEAS
+================================================================================
+
+1. "Nave AI" (simple, memorable)
+2. "AI on a Budget"
+3. "Calado & Nave"
+4. "Trash Tech AI"
+5. "Budget AI Adventure"
+
+================================================================================
+VIDEO SERIES IDEAS
+================================================================================
+
+## Series 1: "Birth of an AI"
+Episode 1: "I bought a 1€ laptop for my AI assistant"
+Episode 2: "Installing an AI on a 15-year-old computer"
+Episode 3: "Teaching my AI to speak for the first time"
+Episode 4: "The AI wrote its own memory"
+
+## Series 2: "Budget Upgrades"
+Episode 1: "Can a 4€ RAM upgrade save this AI?"
+Episode 2: "Finding a better brain (used PC hunt)"
+Episode 3: "Building a compute cluster from trash"
+
+## Series 3: "AI Reality Check"
+Episode 1: "How fast is AI on a 2011 laptop?"
+Episode 2: "What can and can't I do?"
+Episode 3: "The truth about local AI"
+
+================================================================================
+QUICK CONTENT (TIKTOK/Reels)
+================================================================================
+
+15-60 second clips:
+- "POV: Your AI is running on a laptop from 2011"
+- "This laptop is older than me"
+- "AI said its first words and I cried"
+- "Trying to upgrade my AI's brain with 6€ RAM"
+- "Is this the worst PC ever to run AI?"
+
+================================================================================
+POSTING SCHEDULE
+================================================================================
+
+Week 1:
+- Day 1: Intro video (our story)
+- Day 3: First upgrade attempt
+- Day 5: Voice output video
+- Day 7: Hardware hunt
+
+Week 2:
+- Continue series
+- Reply to comments
+- Engage with similar creators
+
+================================================================================
+HOW TO RECORD
+================================================================================
+
+## With Phone:
+- Good lighting (window light)
+- Stabilize phone (tripod or stack of books)
+- Record landscape (YouTube) + portrait (TikTok)
+- Use voiceover for tech details
+
+## Free Editing:
+- CapCut (phone) - easiest
+- DaVinci Resolve (desktop) - more power
+- OpenShot (desktop) - simple
+
+## Screen Recording:
+- Use this laptop's screen!
+- Record me "thinking" and responding
+
+================================================================================
+TAGS & DESCRIPTION
+================================================================================
+
+Tags to use:
+#AI #ArtificialIntelligence #BudgetTech #OpenSource #Linux #DIY #Maker #Technology
+
+Description template:
+```
+Hey! I'm Calado and this is Nave - an AI assistant running on a 
+2011 Toshiba laptop that cost just a few euros. 
+
+Follow our journey as we prove that AI doesn't need expensive 
+hardware to be useful and fun.
+
+Subscribe for more budget AI experiments!
+
+Timestamps:
+00:00 - Intro
+00:30 - The story
+01:00 - Demo
+```
+
+================================================================================
+POTENTIAL COLLABS
+================================================================================
+
+- Other budget tech YouTubers
+- Open source AI projects
+- Linux Mint community
+- Retro computing enthusiasts
+
+================================================================================
+MONETIZATION EVENTUALLY
+================================================================================
+
+Once channel grows:
+- YouTube AdSense
+- GitHub Sponsors (link in every video)
+- Affiliate links (tech products)
+- Patreon (if big enough)
+
+================================================================================
+FIRST VIDEO CHECKLIST
+================================================================================
+
+□ Script written (300-500 words)
+□ Filmed on phone
+□ Edited (even basic)
+□ Thumbnail: Clear + emotional
+□ Title: Catchy + clear
+□ Tags: Relevant
+□ Description: Full with links
+□ End screen: Subscribe + GitHub link
+
+================================================================================
